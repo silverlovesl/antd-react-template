@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "spaceID": 1,
+      "contractorID": 1,
+      "icon": "https://image.flaticon.com/icons/png/128/2883/2883968.png",
+      "contractor": {
+        "contractorID": 1,
+        "contractorName": "BeeCombGrid",
+        "contractorEmail": null,
+        "prefecture": null,
+        "city": null,
+        "street": null,
+        "address": null,
+        "phoneNumber": null,
+        "faxNumber": null,
+        "mobileNumber": null,
+        "industory1": null,
+        "industory2": null,
+        "industory3": null,
+        "usedSpacesCount": 0,
+        "joinedUsersCount": 0,
+        "lastConstract": null
+      },
+      "spaceRole": { "Value": "" },
+      "spaceName": "BCGSpace",
+      "accessKey": "ZTZjZTY1MmMtZWFh",
+      "description": "デフォルトスペース。ここでメンバーの増減することができます。",
+      "updatedAt": "2020-04-09T07:02:10Z"
+    },
+    {
+      "spaceID": 4,
+      "contractorID": 3,
+      "icon": "https://image.flaticon.com/icons/png/128/4072/4072270.png",
+      "contractor": {
+        "contractorID": 3,
+        "contractorName": "PERSOL Vietnam",
+        "contractorEmail": null,
+        "prefecture": null,
+        "city": null,
+        "street": null,
+        "address": null,
+        "phoneNumber": null,
+        "faxNumber": null,
+        "mobileNumber": null,
+        "industory1": null,
+        "industory2": null,
+        "industory3": null,
+        "usedSpacesCount": 0,
+        "joinedUsersCount": 0,
+        "lastConstract": null
+      },
+      "spaceRole": { "Value": "" },
+      "spaceName": "PERSOL-Vietnam",
+      "accessKey": "MDIxMWEyMTYtMjU1",
+      "description": "デフォルトスペース。ここでメンバーの増減することができます。",
+      "updatedAt": "2020-07-19T09:32:04Z"
+    },
+    {
+      "spaceID": 5,
+      "contractorID": 3,
+      "icon": "https://image.flaticon.com/icons/png/128/2921/2921969.png",
+      "contractor": {
+        "contractorID": 3,
+        "contractorName": "夏専属スペース",
+        "contractorEmail": null,
+        "prefecture": null,
+        "city": null,
+        "street": null,
+        "address": null,
+        "phoneNumber": null,
+        "faxNumber": null,
+        "mobileNumber": null,
+        "industory1": null,
+        "industory2": null,
+        "industory3": null,
+        "usedSpacesCount": 0,
+        "joinedUsersCount": 0,
+        "lastConstract": null
+      },
+      "spaceRole": { "Value": "" },
+      "spaceName": "PERSOL-Vietnam",
+      "accessKey": "MDIxMWEyMTYtMjU1",
+      "description": "デフォルトスペース。ここでメンバーの増減することができます。",
+      "updatedAt": "2020-07-19T09:32:04Z"
+    }
+  ]
+}

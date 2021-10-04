@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "id": 11,
+      "name": "デフォルト",
+      "description": "ワークフローとは「業務の流れ」を意味し、ある業務や活動における「一連の作業や手続き」を指します。",
+      "numOfSteps": 7,
+      "opened": 1,
+      "workflowStepsLabel": ["ヒアリング訪問", "ヒアリング訪問前準備", "提案訪問準備", "提案訪問", "発注", "納品", "請求"],
+      "createdBy": 3,
+      "updatedBy": null,
+      "deletedBy": null,
+      "createdAt": "2021-03-01 06:14:25",
+      "updatedAt": "2021-03-01 06:14:51",
+      "deletedAt": null
+    },
+    {
+      "id": 10,
+      "name": "BtoB商材",
+      "description": "To Businessの業務専用ワークフロー",
+      "numOfSteps": 5,
+      "opened": 0,
+      "workflowStepsLabel": ["B2B ステップ１", "B2B ステップ２", "B2B ステップ３", "B2B ステップ４", "B2B ステップ５"],
+      "createdBy": 3,
+      "updatedBy": 2,
+      "deletedBy": null,
+      "createdAt": "2020-10-21 00:56:36",
+      "updatedAt": "2021-02-04 10:34:36",
+      "deletedAt": null
+    }
+  ]
+}

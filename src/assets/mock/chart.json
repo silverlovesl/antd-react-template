@@ -1,0 +1,71 @@
+{
+  "sales": [
+    { "date": "2021-01", "type": "見込", "value": 500 },
+    { "date": "2021-02", "type": "見込", "value": 550 },
+    { "date": "2021-03", "type": "見込", "value": 600 },
+    { "date": "2021-04", "type": "見込", "value": 300 },
+    { "date": "2021-05", "type": "見込", "value": 430 },
+    { "date": "2021-06", "type": "見込", "value": 400 },
+    { "date": "2021-07", "type": "見込", "value": 800 },
+    { "date": "2021-08", "type": "見込", "value": 900 },
+    { "date": "2021-09", "type": "見込", "value": 1000 },
+    { "date": "2021-10", "type": "見込", "value": 1400 },
+    { "date": "2021-11", "type": "見込", "value": 2000 },
+    { "date": "2021-12", "type": "見込", "value": 2200 },
+
+    { "date": "2021-01", "type": "実績", "value": 300 },
+    { "date": "2021-02", "type": "実績", "value": 250 },
+    { "date": "2021-03", "type": "実績", "value": 400 },
+    { "date": "2021-04", "type": "実績", "value": 400 },
+    { "date": "2021-05", "type": "実績", "value": 100 },
+    { "date": "2021-06", "type": "実績", "value": 200 },
+    { "date": "2021-07", "type": "実績", "value": 780 },
+    { "date": "2021-08", "type": "実績", "value": 1000 },
+    { "date": "2021-09", "type": "実績", "value": 1200 },
+    { "date": "2021-10", "type": "実績", "value": 1000 },
+    { "date": "2021-11", "type": "実績", "value": 1900 },
+    { "date": "2021-12", "type": "実績", "value": 2500 }
+  ],
+
+  "memberTasks": [
+    { "name": "夏ヨウ", "icon": "", "type": "訪問", "value": 5 },
+    { "name": "夏ヨウ", "icon": "", "type": "連絡", "value": 15 },
+    { "name": "夏ヨウ", "icon": "", "type": "社内打合", "value": 2 },
+    { "name": "夏ヨウ", "icon": "", "type": "社外打合", "value": 5 },
+    { "name": "夏ヨウ", "icon": "", "type": "作業", "value": 30 },
+    { "name": "夏ヨウ", "icon": "", "type": "プレゼン", "value": 4 },
+    { "name": "夏ヨウ", "icon": "", "type": "定例", "value": 4 },
+    { "name": "夏ヨウ", "icon": "", "type": "その他", "value": 20 },
+
+    { "name": "中島", "icon": "", "type": "訪問", "value": 15 },
+    { "name": "中島", "icon": "", "type": "連絡", "value": 20 },
+    { "name": "中島", "icon": "", "type": "社内打合", "value": 12 },
+    { "name": "中島", "icon": "", "type": "社外打合", "value": 15 },
+    { "name": "中島", "icon": "", "type": "作業", "value": 10 },
+    { "name": "中島", "icon": "", "type": "プレゼン", "value": 2 },
+    { "name": "中島", "icon": "", "type": "定例", "value": 10 },
+    { "name": "中島", "icon": "", "type": "その他", "value": 10 },
+
+    { "name": "中島", "icon": "", "type": "訪問", "value": 15 },
+    { "name": "中島", "icon": "", "type": "連絡", "value": 20 },
+    { "name": "中島", "icon": "", "type": "社内打合", "value": 12 },
+    { "name": "中島", "icon": "", "type": "社外打合", "value": 15 },
+    { "name": "中島", "icon": "", "type": "作業", "value": 10 },
+    { "name": "中島", "icon": "", "type": "プレゼン", "value": 2 },
+    { "name": "中島", "icon": "", "type": "定例", "value": 10 },
+    { "name": "中島", "icon": "", "type": "その他", "value": 10 },
+
+    { "name": "松原", "icon": "", "type": "訪問", "value": 25 },
+    { "name": "松原", "icon": "", "type": "連絡", "value": 20 },
+    { "name": "松原", "icon": "", "type": "社内打合", "value": 2 },
+    { "name": "松原", "icon": "", "type": "社外打合", "value": 5 },
+    { "name": "松原", "icon": "", "type": "作業", "value": 18 },
+    { "name": "松原", "icon": "", "type": "プレゼン", "value": 6 },
+    { "name": "松原", "icon": "", "type": "定例", "value": 1 },
+    { "name": "松原", "icon": "", "type": "その他", "value": 20 },
+
+    { "name": "EVA 1号機", "icon": "", "type": "訪問", "value": 25 },
+    { "name": "EVA 2号機", "icon": "", "type": "連絡", "value": 20 },
+    { "name": "EVA 3号機", "icon": "", "type": "プレゼン", "value": 6 }
+  ]
+}
